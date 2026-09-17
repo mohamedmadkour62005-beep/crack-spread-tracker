@@ -1,2 +1,2 @@
 lookback_observations,z_threshold,forward_observations,baseline_observations,signal_days,signal_day_rate_pct,episode_count,eligible_episode_count,spread_lower_after_forward_window_pct,closer_to_pre_signal_mean_pct,median_forward_change_usd_per_bbl
-90,2.0000,20,2838,248,8.7385,69,68,54.4118,52.9412,-0.3650
+90,2.0000,20,2842,248,8.7262,69,68,54.4118,52.9412,-0.3650
